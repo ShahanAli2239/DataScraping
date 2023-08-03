@@ -1,1 +1,1 @@
-# Here are some DataScraping projects i have done!
+# Here are some data scraping projects I have done!
